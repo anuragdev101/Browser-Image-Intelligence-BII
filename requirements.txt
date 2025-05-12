@@ -1,0 +1,5 @@
+websocket-client
+python-dotenv
+openai
+pyperclip
+boto3
